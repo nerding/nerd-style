@@ -25,7 +25,7 @@ h1 {
   font-weight: 900;
   margin: 0 0 .7em;
   text-align: center; }
-  @media (min-width: 800px) {
+  @media (min-width: 820px) {
     h1 {
       line-height: 125px;
       vertical-align: center;
@@ -41,7 +41,7 @@ h2 {
   border: 2px solid black;
   margin: 0 auto 1em;
   display: block; }
-  @media (min-width: 800px) {
+  @media (min-width: 820px) {
     .person {
       margin: 0 0 0 -150px;
       float: left; } }

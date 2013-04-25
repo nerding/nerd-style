@@ -22,7 +22,7 @@ h1 {
   margin: 0 0 .7em;
   text-align: center;
 
-  @media (min-width: 800px) {
+  @media (min-width: 820px) {
     line-height: 125px;
     vertical-align: center;
     text-align: left;
@@ -39,7 +39,7 @@ h2 { font-size: 2em; }
   margin: 0 auto 1em;
   display: block;
 
-  @media (min-width: 800px) {
+  @media (min-width: 820px) {
     margin: 0 0 0 -150px;
     float: left;
   }
